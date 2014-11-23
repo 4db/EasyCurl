@@ -1,7 +1,7 @@
 EasyCurl
 ========
 
-Php Easy Curl Class
+Class for work with php Curl
 
 Example:
 ```
