@@ -5,6 +5,7 @@ Class for work with php Curl
 
 Example:
 ```
+  <?php
   require_once('EasyCurl/EasyCurl.php');
   
   //Print response:
