@@ -34,4 +34,3 @@ Example:
   print($response);
 ```
 
-it's work ;)
